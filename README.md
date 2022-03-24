@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kernic
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Keras
+- 👀 I’m interested in Artificial Intelligent & Data-Science
+- 🌱 I’m currently learning Dash
 - 📫 How to reach me corentin.le_gall@outlook.fr
 
 <!---
