@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kernic
+- 👋 Hi, I’m @Kernic 
 - 👀 I’m interested in Artificial Intelligent & Data-Science
-- 🌱 I’m currently learning Dash
-- 📫 How to reach me corentin.le_gall@outlook.fr
+- 🌱 I’m currently on my last year of my engineering degree
+- 📫 You can reach me on, corentin.le_gall@outlook.fr
 
 <!---
 Kernic/Kernic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
