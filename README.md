@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kernic 🇫🇷 🇪🇺
-- 👀 I’m interested in Artificial Intelligent & Data-Science
-- 🌱 I’m currently on my last year of my engineering degree
-- 👨‍💻 I'm currently Working at Synergie (Cofidis Groupe)
-- 📫 You can reach me on, corentin.le_gall@outlook.fr
+- 👋 Hi, I’m @Kernic 🇫🇷 🇪🇺 ;
+- 👀 I’m interested in Artificial Intelligent & Data-Science ;
+- 🌱 I’m currently on my last year of my engineering degree at ISEN Brest ;
+- 👨‍💻 I'm currently Working at Synergie (Cofidis Groupe) will work next at Headmind Partners ;
+- 📫 You can reach me on, corentin.le_gall@outlook.fr or corentin.le.gall@proton.me
 
 - 🗣️ : 🇫🇷 🇬🇧 ( 🇮🇹 🇵🇹 🇪🇸 )
 <!---
